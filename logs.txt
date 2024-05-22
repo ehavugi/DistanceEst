@@ -1,0 +1,150 @@
+                                                   0  ...                                                 3
+0   Authorized Third Party providers-sorted by city.  ...  Authorized Third Party providers-sorted by city.
+1                                            Company  ...                                             Hours
+2               1 Stop Title & Registration Services  ...                    Mon-Fri 9am-7pm  Sat. 10am-5pm
+3                             MVS Tags and Title LLC  ...                                      Sat. 8am-4pm
+4               1 Stop Title & Registration Services  ...                    Mon-Fri 9am-7pm  Sat. 10am-5pm
+..                                               ...  ...                                               ...
+70                                               MVP  ...                                   Mon-Fri 8am-5pm
+71                      Montes Multiple Services LLC  ...                     Mon-Fri 8am-5pm  Sat. 9am-1pm
+72                         Manheim Remarketing, Inc.  ...                     Mon-Fri 8am-5pm  Sat. 9am-1pm
+73                      Montes Multiple Services LLC  ...                     Mon-Fri 9am-6pm  Sat. 9am-1pm
+74                         Manheim Remarketing, Inc.  ...                     Mon-Fri 8am-5pm  Sat. 9am-1pm
+
+[75 rows x 4 columns]
+address1 3655 W Anthem Way Suite B115  Anthem, AZ 85086
+C:\Users\ehavugim\Dropbox (ASU)\2024SU\driving license(x)\distances.py:54: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  table_MN.iloc[i]['distance'] = -1
+address1 155 N Meridian Dr, Ste 101  Apache Junction, AZ 85120
+address1 11249 W Buckeye Rd  Avondale, AZ 85323
+('33.43514425', '-112.30210850042212') ('33.414858', '-111.904689')
+23.009028901647024
+C:\Users\ehavugim\Dropbox (ASU)\2024SU\driving license(x)\distances.py:46: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  table_MN.iloc[i]['distance'] = distance
+address1 1457 N Eliseo C Felix Jr Way Ste 105 & 106  Avondale, AZ 85323
+address1 589 W 4th St  Benson, AZ 85602
+('31.97054656210192', '-110.30868212206784') ('33.414858', '-111.904689')
+136.20989560051567
+address1 1300 S Watson Rd Ste A107  Buckeye, AZ 85296
+address1 6213 S Miller Rd Ste 105  Buckeye, AZ 85326
+address1 1609 E Florence Blvd Ste 7  Casa Grande, AZ 85122
+address1 940 N Alma School Road Ste104-105  Chandler, AZ 85224
+address1 2055 N Alma School Rd #18  Chandler, AZ 85224
+address1 1900 W Germann Rd Ste 9  Chandler, AZ 85286
+address1 656 Main Street  Cottonwood, AZ 86326
+address1 4401 N HWY 89 Ste 3  Flagstaff, AZ 86004
+address1 2619 S Woodlands Village Blvd Ste 700 & 750  Flagstaff, AZ 86001
+address1 833 N Cooper Rd #101  Gilbert, AZ 85233
+address1 2915 E Baseline Rd Ste 122  Gilbert, AZ 85234
+address1 5036 W Cactus Rd Ste 2  Glendale, AZ 85304
+address1 4385 W Bell Rd  Glendale, AZ 85308
+('33.6387222', '-112.1901926') ('33.414858', '-111.904689')
+22.57469088873515
+address1 6808 N Dysart Rd #104  Glendale, AZ 85307
+address1 5510 W Camelback Rd Ste 16  Glendale, AZ 85301
+address1 4307 W Glendale Ave  Glendale, AZ 85301
+('33.5370284', '-112.1518392') ('33.414858', '-111.904689')
+16.572451334702375
+address1 13220 W Van Buren Ste 100  Goodyear, AZ 85338
+address1 18785 S I-19 Frontage Rd Unit A117  Green Valley, AZ 85614
+address1 501 Lake Havasu Ave N #108  Lake Havasu City, AZ 86403
+address1 5130 W Baseline Rd Ste 105  Laveen, AZ 85339
+address1 20924 N John Wayne Parkway Ste D1  Maricopa, AZ 85139
+address1 1212 W University Dr  Mesa, AZ 85201
+('33.4234106', '-111.856861') ('33.414858', '-111.904689')
+2.8262704927002997
+address1 1120 S Country Club Dr  Mesa, AZ 85210
+('33.3946891', '-111.841664') ('33.414858', '-111.904689')
+3.8991723109496705
+address1 1728 S Greenfield Rd #101  Mesa, AZ 85206
+address1 1801 E Main St  Mesa, AZ 85203
+address1 12370 N 83rd Ave #101  Peoria, AZ 85381
+address1 1501 N 16th St  Phoenix, AZ 85006
+address1 2375 E Camelback Rd  Phoenix, AZ 85016
+('33.50923075814511', '-112.03101177269694') ('33.414858', '-111.904689')
+9.774847186895775
+address1 3443 W Thomas Rd  Phoenix, AZ 85017
+('33.4799867', '-112.1338632186129') ('33.414858', '-111.904689')
+13.980495731554374
+address1 1902 W Bell Rd  Phoenix, AZ 85023
+('33.64021344444444', '-112.09988112121212') ('33.414858', '-111.904689')
+19.18740377100323
+address1 3134 W Carefree Highway Ste A-11  Phoenix, AZ 85086
+address1 3419 E University Dr  Phoenix, AZ 85016
+('33.417236049159726', '-112.00644043360973') ('33.414858', '-111.904689')
+5.883013838175308
+address1 9005 N 29th Ave Ste 11  Phoenix, AZ 85051
+address1 5146 W McDowell Rd  Phoenix, AZ 85035
+('33.4665509', '-112.1711572') ('33.414858', '-111.904689')
+15.80298758375224
+address1 12450 N 35th Ave Ste 15  Phoenix, AZ 85029
+address1 16456 N 32nd St Unit 4  Phoenix, AZ 85032
+address1 250 N 43rd Ave Ste 104  Phoenix, AZ 85009
+address1 1625 E Indian School Rd  Phoenix, AZ 85016
+('33.4942955', '-112.0462432') ('33.414858', '-111.904689')
+9.840921561078313
+address1 7207 S Central Ave  Phoenix, AZ 85042
+('33.3806648241206', '-112.07316813567839') ('33.414858', '-111.904689')
+10.020333619508728
+address1 2302 E Bell Rd  Phoenix, AZ 85022
+('33.640573363191166', '-112.03283477412988') ('33.414858', '-111.904689')
+17.22499300932805
+address1 6601 W Indian School Rd Ste 20  Phoenix, AZ 85033
+address1 2475 S 59th Ave  Phoenix, AZ 85043
+('33.42536373452767', '-112.18659423185436') ('33.414858', '-111.904689')
+16.30804780877817
+address1 201 Grove Ave  Prescott, AZ 86301
+('34.544225', '-112.476206') ('33.414858', '-111.904689')
+84.4742522640527
+address1 6520 E 2nd St  Prescott Valley, AZ 86314
+('34.57991689480999', '-112.35118359091697') ('33.414858', '-111.904689')
+84.29178777294977
+address1 3125 W Hunt Hwy Ste 104  Queen Creek, AZ 85142
+address1 601 N 2nd Ave  San Luis, AZ 85349
+('32.490454', '-114.7800886') ('33.414858', '-111.904689')
+178.78577666953484
+address1 601 N 2nd Ave  San Luis, AZ 85349
+('32.490454', '-114.7800886') ('33.414858', '-111.904689')
+178.78577666953484
+address1 800 N Main St  San Luis, AZ 85349
+address1 9180 W Talking Stick # F11  Scottsdale, AZ 85250
+address1 14770 N 78th Way Bldg A  Scottsdale, AZ 85260
+address1 999 E Fry Blvd Ste 202  Sierra Vista, AZ 85635
+address1 9817 W Bell Rd  Sun City, AZ 85351
+('33.638208031955465', '-112.27105740046005') ('33.414858', '-111.904689')
+26.156380725576003
+address1 10147 W Grand Ave Ste A1  Sun City, AZ 85351
+address1 12801 W Bell Rd #113  Surprise, AZ 85378
+address1 1910 S Priest Dr Unit 103  Tempe, AZ 85281
+address1 2586 Highway 70  Thatcher, AZ 85522
+address1 7500 W Madison St  Tolleson, AZ 85353
+('33.4471997', '-112.221645') ('33.414858', '-111.904689')
+18.450466090359882
+address1 3815 S 12th Ave  Tucson, AZ 85714
+('32.177532500000005', '-110.977473875') ('33.414858', '-111.904689')
+100.90664944908036
+address1 5441 E 22nd St #107  Tucson, AZ 85711
+address1 4733 E Broadway Blvd  Tucson, AZ 85711
+('32.22160563265306', '-110.89156542857143') ('33.414858', '-111.904689')
+101.17521055552241
+address1 1337 W Prince Road  Tucson, AZ 85705
+('32.27203359577419', '-110.9938086350038') ('33.414858', '-111.904689')
+94.9184117499384
+address1 6741 N Thornydale Rd Ste 151  Tucson, AZ 85741
+address1 7930 E Speedway Blvd Ste 100  Tucson, AZ 85710
+address1 132 A W Maley  Willcox, AZ 85643
+address1 11274 S Fortuna Rd Ste D1  Yuma, AZ 85367
+address1 11274 S Fortuna Rd Ste D9,  Yuma, AZ 85367
+address1 3080 S Pacific Ave  Yuma, AZ 85364
+('32.67291607777778', '-114.59871121111111') ('33.414858', '-111.904689')
+164.50294297186358
+address1 3080 S Pacific Ave  Yuma, AZ 85364
+('32.67291607777778', '-114.59871121111111') ('33.414858', '-111.904689')
+164.50294297186358
+[Finished in 104.9s]
